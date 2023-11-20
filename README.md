@@ -23,3 +23,8 @@ Remember to stay flexible and adaptable, as you may encounter unforeseen challen
 3. Collaborate with others: Team up with other developers or join online communities to share ideas, solutions,and learn from each other. Collaboration can help broaden your knowledge and introduce you to newer technologies.  
 4. Be open-minded: Embrace change and try new programming langauges and frameworks. While it may take time to master a new skill, the effort will pay off in your career.   
 5. Stay organized and disciplined: Set goals and deadlines for yourself to keep your projects on track. Use version control systems, such as Git, to manage your code and collaborate with teammates. Organized and efficient developers are valued in any workplace.
+
+# 2023-11-20
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
+
+This quote highlights the ongoing challenge that programmers face in creating user-friendly software that can withstand the unpredictable actions of users. It also reminds us of the importance of considering the end-user when designing and developing software.
