@@ -36,3 +36,9 @@ This quote highlights the ongoing challenge for programmers to create robust and
 
 # 2023-11-22
 - "Keep it simple, stupid!"
+
+# 2023-11-23
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest trends and technologies, as well as learning new programming languages and frameworks.
+
+To be successful in the programming field, you must also have a strong foundation in core computer science concepts, such as data structures, algorithms, and software engineering principles. These concepts will serve as the foundation for your understanding of more advanced topics, allowing you to adapt and apply new techniques with ease. 
+ - 来自NLP
