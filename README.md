@@ -42,3 +42,8 @@ This quote highlights the ongoing challenge for programmers to create robust and
 
 To be successful in the programming field, you must also have a strong foundation in core computer science concepts, such as data structures, algorithms, and software engineering principles. These concepts will serve as the foundation for your understanding of more advanced topics, allowing you to adapt and apply new techniques with ease. 
  - 来自NLP
+
+# 2023-11-24
+- Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By staying current, you can better understand the industry trends and develop the skills needed to succeed in your career.
+
+Another important aspect of programming wise is problem-solving. When faced with a challenging problem, take a step back and analyze the issue. Break down the problem into smaller, more manageable parts, then use critical thinking and creativity to come up with solutions. Practice debugging and refactoring code, which will help you identify and fix errors more efficiently. Finally, don't be afraid to ask for help or advice from others in the community. Learning from your mistakes and the experiences of others will make you a better programmer.
