@@ -47,3 +47,14 @@ To be successful in the programming field, you must also have a strong foundatio
 - Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By staying current, you can better understand the industry trends and develop the skills needed to succeed in your career.
 
 Another important aspect of programming wise is problem-solving. When faced with a challenging problem, take a step back and analyze the issue. Break down the problem into smaller, more manageable parts, then use critical thinking and creativity to come up with solutions. Practice debugging and refactoring code, which will help you identify and fix errors more efficiently. Finally, don't be afraid to ask for help or advice from others in the community. Learning from your mistakes and the experiences of others will make you a better programmer.
+
+# 2023-11-25
+- Today's programming wisdom is to be a lifelong learner, always open to new ideas and technologies. This means staying up-to-date with the latest programming languages, frameworks, and tools. It also means being willing to learn from your mistakes and the experiences of others.
+
+To be successful in the world of programming, it' s essential to have a deep understanding of the fundamentals. That means mastering data structures, algorithms, computer architecture, operating systems, etc. These fundamentals will serve as a solid foundation for your career as you continue to build upon them. 
+ - 学习新技能和技术的意愿
+- 对基本原理的深入理解
+– 持续学习和实践
+— 适应变化
+—— 与他人合作和分享知识
+这些原则将帮助您成为一名成功的程序员，并在不断变化的技术环境中保持竞争力。
