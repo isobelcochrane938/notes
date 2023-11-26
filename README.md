@@ -58,3 +58,8 @@ To be successful in the world of programming, it' s essential to have a deep und
 — 适应变化
 —— 与他人合作和分享知识
 这些原则将帮助您成为一名成功的程序员，并在不断变化的技术环境中保持竞争力。
+
+# 2023-11-26
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
+
+This quote highlights the ongoing challenge programmers face in creating user-friendly software that can withstand the unpredictable actions of users. It also emphasizes the importance of anticipating and accounting for potential mistakes or misunderstandings on the part of users in order to create more robust and effective programs.
