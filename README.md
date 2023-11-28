@@ -69,3 +69,10 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 
 Additionally, always be open to learning new skills and adapting to new technologies. The programming industry is constantly evolving, and it' s important to stay ahead of the curve and keep up with the latest trends and tools. Not only will this make you a more valuable asset to your team or organization, but it will also help you stay relevant in your career. 
  . Finally, don't be afraid to ask for help or seek guidance from others. There'  s always someone who has been in a similar situation and can offer valuable advice or share their experience. Collaborating with others can also lead to more innovative solutions and a better understanding of different approaches to problem-solving.
+
+# 2023-11-28
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, identify the most important tasks and focus on them first. By prioritizing your work, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break down the task into smaller, manageable steps, then allocate time for each step. Having a clear plan will keep you on track and prevent you from getting lost in the code. 
+ （105字）
+最后，保持组织有序。使用版本控制系统，如Git，来跟踪代码更改。为项目设置清晰的文件夹结构，并编写注释以解释代码的功能和目的。这将使您更容易找到和修复错误，同时也有助于其他开发人员理解您的代码。通过遵循这些最佳实践，您将能够更有效地进行编程并成为更好的程序员。
