@@ -88,3 +88,8 @@ Second, planning ahead is crucial. Before starting a new project or undertaking 
 
 Secondly, planning ahead is crucial. Make sure you have a plan for your day, week, or even month. Knowing what you want to achieve and when will keep you on track and prevent you from getting derailed. Planning also helps you stay focused on your goals and makes it easier to adjust your schedule as needed. 
  3. Finally, stay organize. Use tools like task managers, calendars, notes, etc. to keep track of your progress and make sure that your workspace is clean and clutter-free. Organized programmers are more likely to find solutions to problems and be able to work efficiently.
+
+# 2023-12-02
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. 
+
+It means that trying to optimize code before it's necessary can often lead to more problems than it solves, such as making the code harder to read and maintain. It's important to write clear, understandable code first, and only optimize when profiling has identified specific performance bottlenecks.
