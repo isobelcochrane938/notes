@@ -140,3 +140,6 @@ Remember to take breaks throughout the day to avoid burnout and to keep your min
 
 # 2023-12-13
 - "Keep it simple, stupid!"
+
+# 2023-12-14
+- Today's programming wisdom is to prioritize writing readable and maintainable code over clever or complex code. It is better to have a simple solution that can be easily understood and modified by others than a complicated solution that only you can understand. Additionally, it is important to write code that follows established best practices and conventions, as this will make it easier for others to read and work with your code. Finally, remember that programming is a collaborative effort, and it is important to communicate clearly and document your code thoroughly to make it easier for others to contribute to and build upon your work.
