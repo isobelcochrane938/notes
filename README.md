@@ -181,3 +181,9 @@ This quote reminds us that while optimizing code for efficiency is important, it
 
 # 2023-12-26
 - Today's programming wisdom is: "Simplicity is the ultimate sophistication. Complex code may demonstrate your technical prowess, but simple and readable code demonstrates your understanding of the problem and respect for future maintainers. Always strive to write code that is easy to read, understand, and modify. Remember, code is read far more often than it is written."
+
+# 2023-12-27
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is essential to stay up-to-date with the latest developments and techniques in the field. This means constantly reading blogs, articles, and research papers, attending conferences, workshops, online courses, etc. to gain a deeper understanding of the topics that interest you.
+
+In addition to staying up to date with technological advancements, being a good programmer also means being able to work well with others. That means communicating effectively, both verbally and in writing, as well as being willing to listen and learn from others' experiences and knowledge. Teamwork is crucial in any project, but especially in software development, where collaboration is the key to success. 
+ - 来自NLP
