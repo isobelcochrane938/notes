@@ -187,3 +187,6 @@ This quote reminds us that while optimizing code for efficiency is important, it
 
 In addition to staying up to date with technological advancements, being a good programmer also means being able to work well with others. That means communicating effectively, both verbally and in writing, as well as being willing to listen and learn from others' experiences and knowledge. Teamwork is crucial in any project, but especially in software development, where collaboration is the key to success. 
  - 来自NLP
+
+# 2023-12-28
+- "Keep it simple, stupid!"
