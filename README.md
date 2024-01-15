@@ -279,3 +279,10 @@ This quote emphasizes the importance of writing clean, simple code, which not on
 
 # 2024-01-14
 - "Keep it simple, stupid!"
+
+# 2024-01-15
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, identify the most important tasks and focus on them first. By prioritizing your work, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, then allocate time for each step. Planning ahead will ensure you have a clear roadmap and avoid getting lost in the code. 
+ - 来自npc的补充
+Planning ahead also helps you identify potential problems or roadblocks before they become major issues. You can then address these issues early on, saving time and effort in resolving them later.
