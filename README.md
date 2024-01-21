@@ -313,3 +313,6 @@ Lastly, stay organised. Use version control systems, like Git, to keep track of 
 
 # 2024-01-20
 - "Keep it simple, stupid!"
+
+# 2024-01-21
+- "Keep it simple, stupid!"
